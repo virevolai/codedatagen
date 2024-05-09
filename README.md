@@ -52,7 +52,7 @@ python script_name.py --repo-owner <owner> --repo-name <repository> --branch <br
 ### Example
 
 `bash
-python script_name.py --repo-owner example_user --repo-name example_repo --branch master --output-file data.jsonl
+python datagen.py --repo-owner example_user --repo-name example_repo --branch master --output-file data.jsonl
 `
 
 ## Output
