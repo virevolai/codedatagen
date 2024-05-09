@@ -16,11 +16,11 @@ You also need a GitHub personal access token with appropriate permissions to acc
 
 1. Clone this repository:
    `bash
-   git clone https://github.com/virevol/yourrepository.git
+   git clone https://github.com/virevol/codedatagen.git
    `
 2. Navigate to the project directory:
    `bash
-   cd yourrepository
+   cd codedatagen
    `
 3. Install the required Python packages:
    `bash
