@@ -6,7 +6,7 @@ setup:
 
 run:
 	@echo "Running..."
-	python script_name.py --repo-owner $(OWNER) --repo-name $(REPO) --branch $(BRANCH) --output-file $(OUTPUT)
+	python datagen.py --repo-owner $(OWNER) --repo-name $(REPO) --branch $(BRANCH) --output-file $(OUTPUT)
 
 clean:
 	@echo "Cleaning up..."
